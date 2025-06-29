@@ -5,6 +5,4 @@ pandas
 jinja2
 fastapi
 uvicorn
-
-# scikit-surprise should come *after* cython and numpy
 scikit-surprise==1.1.3
