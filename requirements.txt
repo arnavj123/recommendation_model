@@ -1,5 +1,10 @@
+cython
+numpy
+scikit-learn
+pandas
+jinja2
 fastapi
 uvicorn
-jinja2
-pandas
-scikit-surprise
+
+# scikit-surprise should come *after* cython and numpy
+scikit-surprise==1.1.3
