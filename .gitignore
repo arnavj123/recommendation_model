@@ -1,0 +1,5 @@
+// ignore accenture all files
+# Accenture Data
+# Ignore all files in the accenture_data directory
+*.csvsvd_model.pkl
+svd_model.pkl
